@@ -1,0 +1,10 @@
+name: MakeKazerGreatAgain
+version: 0.0.1
+main: games.yelor.shitkazer
+author: OFFHER
+api-version: 1.13
+commands:
+  ver:
+    description: BeOffherMan
+    aliases: [pl,plugins]
+    permission: ''
